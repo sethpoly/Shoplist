@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Shoplist</string>
+    <string name="categorySports">Sports</string>
+    <string name="categoryElectronics">Electronics</string>
+    <string name="categoryOfficeSupplies">Office Supplies</string>
+    <string name="txtTitle">Shoplist</string>
+    <string name="txtCategories">Categories</string>
+    <string name="txtPrice">price</string>
+    <string name="btnFindPrice">Loading Price</string>
+    
+    <string-array name="sportList">
+
+        <item>Basketball</item>
+        <item>Baseball</item>
+        <item>Tennis Ball</item>
+        <item>Tennis Racket</item>
+        <item>Baseball Bat</item>
+    </string-array>
+    <string name="txtBasketball">Basketball</string>
+    <string name="txtBaseball">Baseball</string>
+    <string name="txtTennisBall">Tennis Ball</string>
+    <string name="txtTennisRacket">Tennis Racket</string>
+    <string name="txtBaseballBat">Baseball Bat</string>
+    <string name="txtBaseballPrice">Loading Price</string>
+    <string name="txtTennisBallPrice">Loading Price</string>
+    <string name="txtTennisRacketPrice">Loading Price</string>
+    <string name="txtBaseballBatPrice">Loading Price</string>
+    <string name="txtDrone">DJI Drone</string>
+    <string name="txtPS4">PS4 Pro</string>
+    <string name="txtIpad">Ipad Pro</string>
+    <string name="txtBose">Bose Headphones</string>
+    <string name="txtSmarthome">Sonos Smarthome</string>
+    <string name="txtDronePrice">Loading Price</string>
+    <string name="txtPS4Price">Loading Price</string>
+    <string name="txtIpadPrice">Loading Price</string>
+    <string name="txtBosePrice">Loading Price</string>
+    <string name="txtSmarthomePrice">Loading Price</string>
+    <string name="txtStapler">Stapler</string>
+    <string name="txtPencil">Pencils</string>
+    <string name="txtNotebook">Notebook</string>
+    <string name="txtFolder">Folders</string>
+    <string name="txtHighlighters">Highlighters</string>
+    <string name="btnStapler">Loading Price</string>
+    <string name="btnPencilPrice">Loading Price</string>
+    <string name="btnNotebookPrice">Loading Price</string>
+    <string name="btnFolderPrice">Loading Price</string>
+    <string name="btnHighlighterPrice">Loading Price</string>
+    />
+</resources>
